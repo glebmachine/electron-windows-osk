@@ -1,6 +1,6 @@
 ﻿#include <nan.h>
 #include <stdio.h>
-#include <ShlObj.h>
+#include <shlObj.h>
 #include <string>
 #include <iostream>
 #include <algorithm>
